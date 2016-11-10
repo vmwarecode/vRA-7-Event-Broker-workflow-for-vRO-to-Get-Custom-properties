@@ -1,0 +1,1 @@
+# vRA-7-Event-Broker-workflow-for-vRO-to-Get-Custom-properties
